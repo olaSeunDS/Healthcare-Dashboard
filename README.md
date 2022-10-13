@@ -1,5 +1,5 @@
 # Interns Collaborative Project at DataLab
-Health Calculations and Symptoms Checkers Multi-Functional all-in-one Web Application.
+Health Calculations and Symptoms Checker Multi-Functional all-in-one Web Application.
 
 #Tools
 
