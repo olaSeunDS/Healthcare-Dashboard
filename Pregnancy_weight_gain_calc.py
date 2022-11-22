@@ -244,6 +244,6 @@ if st.button('Calculate Weigh Gain') :
         plt.xlabel('Weeks of Pregnancy', color='#000000', fontsize=16)
         plt.ylabel('Expect Weight', color='#000000', fontsize=16)
         st.pyplot(fig)
-        st.write(f"The Red line indicates the maximum expected weight gain while the green line indicates the minimum expected weight gain on weekly basis. Any weight higher than the maximum or lower than the minimum is outrageous.")
+        st.write(f"The Red line indicates the maximum expected weight gain, while the green line indicates the minimum expected weight gain on weekly basis. Any weight higher than the maximum or lower than the minimum is outrageous.")
 
     PWGC(weight_b, height_b, preg_du, is_twins)
