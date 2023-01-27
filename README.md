@@ -6,3 +6,4 @@ Health Calculations and Symptoms Checker Multi-Functional all-in-one Web Applica
 1. Python
 2. Streamlit
 3. Heroku
+4. SQL
